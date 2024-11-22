@@ -5,7 +5,7 @@ import MobileNavbar from "./component/Mobile/MobileNavbar";
 import HomePage from "./component/Home";
 import AboutPage from "./component/About";
 import ContactPage from "./component/Contact";
-
+//
 
 export default function Home() {
   const [nav, setNav] = useState(false)
